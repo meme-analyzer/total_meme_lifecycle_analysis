@@ -1,0 +1,14 @@
+python-dotenv
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+dash
+scikit-learn
+snscrape
+PRAW
+Instaloader
+spaCy
+lifelines
+NetworkX
